@@ -1,4 +1,7 @@
 /build/
-/.settings/
 /target/
-.classpath
+
+# Eclipse files
+/.classpath
+/.project
+/.settings/
